@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: eb70ccd3b57d3814aacf03a30cb02610
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: box
+    100002: box 1
+    100004: cylinder
+    100006: cylinder 1
+    100008: cylinder 2
+    100010: cylinder 3
+    100012: cylinder 4
+    100014: //RootNode
+    100016: group_0
+    100018: group_1
+    100020: ID148
+    100022: ID161
+    100024: ID169
+    100026: ID175
+    100028: ID18
+    100030: ID181
+    100032: ID26
+    100034: ID34
+    100036: ID50
+    100038: ID58
+    100040: ID78
+    400000: box
+    400002: box 1
+    400004: cylinder
+    400006: cylinder 1
+    400008: cylinder 2
+    400010: cylinder 3
+    400012: cylinder 4
+    400014: //RootNode
+    400016: group_0
+    400018: group_1
+    400020: ID148
+    400022: ID161
+    400024: ID169
+    400026: ID175
+    400028: ID18
+    400030: ID181
+    400032: ID26
+    400034: ID34
+    400036: ID50
+    400038: ID58
+    400040: ID78
+    2300000: box
+    2300002: box 1
+    2300004: cylinder
+    2300006: cylinder 1
+    2300008: cylinder 2
+    2300010: cylinder 3
+    2300012: cylinder 4
+    2300014: group_0
+    2300016: group_1
+    2300018: ID148
+    2300020: ID161
+    2300022: ID169
+    2300024: ID175
+    2300026: ID18
+    2300028: ID181
+    2300030: ID26
+    2300032: ID34
+    2300034: ID50
+    2300036: ID78
+    2300038: ID58
+    3300000: box
+    3300002: box 1
+    3300004: cylinder
+    3300006: cylinder 1
+    3300008: cylinder 2
+    3300010: cylinder 3
+    3300012: cylinder 4
+    3300014: group_0
+    3300016: group_1
+    3300018: ID148
+    3300020: ID161
+    3300022: ID169
+    3300024: ID175
+    3300026: ID18
+    3300028: ID181
+    3300030: ID26
+    3300032: ID34
+    3300034: ID50
+    3300036: ID78
+    3300038: ID58
+    4300000: group_0
+    4300002: ID148
+    4300004: ID161
+    4300006: ID169
+    4300008: ID175
+    4300010: ID181
+    4300012: group_1
+    4300014: ID50
+    4300016: cylinder
+    4300018: ID18
+    4300020: ID26
+    4300022: ID34
+    4300024: box
+    4300026: ID78
+    4300028: cylinder
+    4300030: cylinder
+    4300032: cylinder
+    4300034: box
+    4300036: cylinder
+    4300038: ID58
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
